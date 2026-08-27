@@ -47,7 +47,7 @@ This project demonstrates the full data analysis lifecycle:
 ## 👨‍💻 Author
 **Mohammad Ayan Saifi**  
 Data Analyst | Python · SQL · Power BI  
-📧 [Add your email here]  
-🌐 [Add your LinkedIn profile link]  
+📧 [moayan9811@gmail.com]  
+🌐 [https://www.linkedin.com/in/mohammad-ayan-saifi-b00207303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 
 ---
