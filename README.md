@@ -45,7 +45,7 @@ This project demonstrates the full data analysis lifecycle:
 ---
 
 ## 👨‍💻 Author
-**Yash Chauhan**  
+**Mohammad Ayan Saifi**  
 Data Analyst | Python · SQL · Power BI  
 📧 [Add your email here]  
 🌐 [Add your LinkedIn profile link]  
